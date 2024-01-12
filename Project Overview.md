@@ -11,23 +11,25 @@ This initiative holds immense importance as it has the potential to transform th
 The primary objective is to develop a robust image processing system for accurate and early detection of brain tumours. The study focuses on implementing advanced segmentation and classification algorithms to improve diagnostic accuracy.
 
 **1.3 Project features:**
-1.	Characteristics of Intensity:
+1.	**Characteristics of Intensity:**
     - Mean Intensity: Average pixel intensity in the tumour area.
     - Standard deviation: Measurement of the dispersion of pixel intensities.
     - Histogram properties: Distribution of pixel intensities.
-2.	Texture properties:
+2.	**Texture properties:**
     - Gray-level co-occurrence matrix (GLCM) function: Describes the spatial relationships between pixel intensities.
     - Gray Level Run Length Matrix (GRLLM) function: Represents the length of consecutive pixel values.
     - Hara lick Texture Properties: Captures texture patterns in an image.
-3.	Shape properties:
+3.	**Shape properties:**
     - Area: The size of the tumour area.
     - Circumference: The length of the tumour border.
     - Eccentricity: Describes the elongation of the tumour shape.
 
 **1.4 Requirements:**
+
 Python 3, Flask, TensorFlow, Scikit-learn, PIL (Python Imaging Library), NumPy, Joblib, TensorFlow Hub
 
 **1.5 Applicability:**
+
 The application of image processing for brain tumour detection has indeed proven to be significant in various aspects of medical diagnostics and healthcare. Your points highlight the key areas where image processing plays a crucial role. Let's delve a bit deeper into each of these:
 
 1. **Early and accurate diagnosis:**
