@@ -1,4 +1,5 @@
 Chapter 2: Literature Review
+
 2.1 Neural network.
 A neural network, inspired by the functioning of biological neural networks in the human brain, is a computational model comprising interconnected nodes known as neurons or artificial neurons. These nodes are arranged in layers, consisting of an input layer, one or more hidden layers, and an output layer.
 
