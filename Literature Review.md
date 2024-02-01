@@ -1,12 +1,12 @@
-Chapter 2: Literature Review
+#Chapter 2: Literature Review
 
-2.1 Neural network.
+**2.1 Neural network.**
 A neural network, inspired by the functioning of biological neural networks in the human brain, is a computational model comprising interconnected nodes known as neurons or artificial neurons. These nodes are arranged in layers, consisting of an input layer, one or more hidden layers, and an output layer.
 
 The fundamental unit of a neural network is the artificial neuron. Every neuron accepts input signals, processes them by applying weights that are modified during training, and generates an output signal. The connection strengths (weights) among neurons dictate the influence of one neuron's output on another. The learning process in a neural network includes refining these weights in response to the disparity between the network's predictions and the desired output.
 
-Fig. 1.Neural network
 
+![image](https://github.com/cljain/Brain-Tumor-Detection/assets/138676234/a5d3b70c-e75e-4907-92b6-c771627d66d7)
 
 
 
