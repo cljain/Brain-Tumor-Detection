@@ -17,13 +17,17 @@ While the main focus of this discussion has been on feedforward networks, variou
 **2.2.1 How do convolutional neural networks work?**
 
 Convolutional neural networks (CNNs) stand out for their exceptional performance in handling inputs like images, speech, or audio signals. Structurally, CNNs consist of three primary types of layers:
+
 **1. Convolutional Layer:**
 
-   The initial layer in a convolutional network, convolutional layers may be succeeded by additional convolutional or pooling layers. These layers play a crucial role in enhancing the network's ability to discern intricate details within the input data. In the early stages, convolutional layers focus on identifying basic features like colors and edges.
+The initial layer in a convolutional network, convolutional layers may be succeeded by additional convolutional or pooling layers. These layers play a crucial role in enhancing the network's ability to discern intricate details within the input data. In the early stages, convolutional layers focus on identifying basic features like colors and edges.
+   
 **2. Pooling Layer:**
 
-   Following the convolutional layers, pooling layers are instrumental in down-sampling or reducing the spatial dimensions of the data. This step helps in retaining essential information while decreasing computational load. Pooling layers contribute to the network's overall efficiency in recognizing patterns.
+Following the convolutional layers, pooling layers are instrumental in down-sampling or reducing the spatial dimensions of the data. This step helps in retaining essential information while decreasing computational load. Pooling layers contribute to the network's overall efficiency in recognizing patterns.
+   
 **3. Fully-Connected (FC) Layer:**
 
-   The fully connected layer serves as the concluding segment of the CNN. As the data progresses through the network, layers become progressively complex, enabling the identification of larger portions of the input, such as distinct shapes or features. Ultimately, the final layer of the fully connected layer is pivotal in making high-level predictions or classifications.
+The fully connected layer serves as the concluding segment of the CNN. As the data progresses through the network, layers become progressively complex, enabling the identification of larger portions of the input, such as distinct shapes or features. Ultimately, the final layer of the fully connected layer is pivotal in making high-level predictions or classifications.
 
+![image](https://github.com/cljain/Brain-Tumor-Detection/assets/138676234/8f555d0b-a887-46e9-955f-09e76875c50b)
